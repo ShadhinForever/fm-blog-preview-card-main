@@ -59,7 +59,7 @@ img {
 .container .i-a-img {
   border-radius: 0.75rem;
 }
-.lrng {
+.learning {
   width: fit-content;
   background: var(--Yellow);
   padding: 0.5rem 0.75rem;
@@ -67,7 +67,7 @@ img {
   border-radius: 0.25rem;
 }
 .pub-date,
-.dscrtn {
+.description {
   font-weight: var(--fw-500);
 }
 .container h1 {
