@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor](#)
-- Live Site URL: [vercel](#)
+- Solution URL: [Blog Preview Card](https://www.frontendmentor.io/solutions/blog-preview-card-sHa8XRFTxJ)
+- Live Site URL: [Blog Preview Card](https://fm-blog-preview-card-main-nine.vercel.app/)
 
 ## My process
 
